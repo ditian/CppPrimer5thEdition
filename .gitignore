@@ -1,4 +1,6 @@
 *
+!*.h
 !*.cc
 !*.cpp
 !.gitignore
+!*.data
